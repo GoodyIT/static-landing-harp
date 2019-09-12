@@ -1,0 +1,88 @@
+/*
+Theme Name: iDea - Clean & Powerful Bootstrap Theme
+Author: HtmlCoder
+Author URI: http://www.htmlcoder.me
+Author e-mail: htmlcoder.me@gmail.com
+Version: 1.4
+Created: August 2014
+License URI: http://support.wrapbootstrap.com/
+File Description: Place here your custom CSS styles
+*/
+
+.python-bg {
+    color: white;
+    background: #15aabf;
+}
+
+.react-bg {
+    color: white;
+    background: rgb(0, 216, 255);
+}
+
+.sketch-bg {
+    color: white;
+    background: #ffae01;
+}
+
+.cloud-bg {
+    color: white;
+    background: #0072ff;
+}
+
+.angular-bg {
+    color: white;
+    background: #dd1b16;
+}
+
+.vue-bg {
+    color: white;
+    background: #15aabf;
+}
+
+.box-style-3:hover .python-bg {
+    background-color: #fff;
+    border: 1px solid #15aabf;
+    color: #15aabf;
+}
+
+.box-style-3:hover .react-bg {
+    background-color: #fff;
+    border: 1px solid rgb(0, 216, 255);
+    color: rgb(0, 216, 255);
+}
+
+.box-style-3:hover .sketch-bg {
+    background-color: #fff;
+    border: 1px solid #ffae01;
+    color: #ffae01;
+}
+
+.box-style-3:hover .cloud-bg {
+    background-color: #fff;
+    border: 1px solid #0072ff;
+    color: #0072ff;
+}
+
+.box-style-3:hover .angular-bg {
+    background-color: #fff;
+    border: 1px solid #dd1b16;
+    color: #dd1b16;
+}
+
+.box-style-3:hover .vue-bg {
+    background-color: #fff;
+    border: 1px solid #15aabf;
+    color: #15aabf;
+}
+
+.logo a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo span {
+    margin-left: 1rem;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
